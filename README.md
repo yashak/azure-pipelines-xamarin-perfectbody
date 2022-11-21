@@ -1,4 +1,7 @@
 # PerfectBody-DevOps
+
+[MS Docs: Build and deploy Xamarin apps with a pipeline](https://learn.microsoft.com/en-gb/azure/devops/pipelines/ecosystems/xamarin?view=azure-devops&tabs=yaml)
+
 Sample app for demoing DevOps with VSTS
 
 <table>

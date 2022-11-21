@@ -1,5 +1,5 @@
 pool:  
-  vmImage: 'macOS-10.15'
+  vmImage: 'windows-2019'
   demands:
   - MSBuild
   - Xamarin.Android
